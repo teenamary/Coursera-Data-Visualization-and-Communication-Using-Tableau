@@ -1,2 +1,2 @@
-# Data-Visualization-and-Communication-Using-Tableau
-This repository contains the solved quizzes and final project of the course.
+# Coursera-Data-Visualization-and-Communication-with-Tableau
+This repository contains the solved quizzes of the Coursera's online course 'Data Visualization and Communication with Tableau'.
